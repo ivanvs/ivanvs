@@ -8,7 +8,7 @@
 
 Welcome to my profile! I'm a Software Developer @Nortal. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ivasiljevic/)!
 
-- :office: &nbsp;I'm currently working at **[Nortal]**
+- :office: &nbsp;I'm currently working at **[Hooloovoo]**
 - :seedling: &nbsp;I’m currently learning **AWS**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -32,7 +32,7 @@ Welcome to my profile! I'm a Software Developer @Nortal. Thanks for visiting and
 
 <!-- links -->
 
-[nortal]: https://nortal.com/ "Nortal"
+[hooloovoo]: https://hooloovoo.rs/ "Hooloovoo"
 [linkedin]: https://www.linkedin.com/in/ivasiljevic/ "Ivan Vasiljevic LinkedIn"
 
 <!--
