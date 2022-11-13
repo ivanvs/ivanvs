@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@crveni_mrav-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/crveni_mrav/)](https://www.instagram.com/crveni_mrav)
 [![Gmail Badge](https://img.shields.io/badge/-robince885-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:robince885@gmail.com)](mailto:robince885@gmail.com)
 
-Welcome to my profile! I'm a Software Developer @Nortal. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ivasiljevic/)!
+Welcome to my profile! I'm a Software Developer @Hooloovoo. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ivasiljevic/)!
 
 - :office: &nbsp;I'm currently working at **[Hooloovoo]**
 - :seedling: &nbsp;I’m currently learning **AWS**
