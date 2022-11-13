@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@robince885-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/robince885)](https://twitter.com/robince885)
 [![Instagram Badge](https://img.shields.io/badge/-@crveni_mrav-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/crveni_mrav/)](https://www.instagram.com/crveni_mrav)
 [![Gmail Badge](https://img.shields.io/badge/-robince885-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:robince885@gmail.com)](mailto:robince885@gmail.com)
-[![Stackoverfloow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/1386584/ivan-vasiljevic)](https://stackoverflow.com/users/1386584/ivan-vasiljevic)
+[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/1386584/ivan-vasiljevic)](https://stackoverflow.com/users/1386584/ivan-vasiljevic)
 
 Welcome to my profile! I'm a Software Developer @Hooloovoo. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ivasiljevic/)!
 
