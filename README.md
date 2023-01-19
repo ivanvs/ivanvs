@@ -6,11 +6,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-@crveni_mrav-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/crveni_mrav/)](https://www.instagram.com/crveni_mrav)
 [![Gmail Badge](https://img.shields.io/badge/-robince885-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:robince885@gmail.com)](mailto:robince885@gmail.com)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/1386584/ivan-vasiljevic)](https://stackoverflow.com/users/1386584/ivan-vasiljevic)
+![Profile View Badge](https://komarev.com/ghpvc/?username=ivanvs)
 
 Welcome to my profile! I'm a Software Developer @Hooloovoo. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ivasiljevic/)!
 
 - :office: &nbsp;I'm currently working at **[Hooloovoo]**
-- :seedling: &nbsp;I’m currently learning **AWS**
+- :seedling: &nbsp;I’m currently learning **AWS** and **Kafka**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br />
