@@ -1,0 +1,21 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily, regenerates the cards
+  workflow_dispatch: # lets you trigger the first run manually
+
+permissions:
+  contents: write # the action commits the generated SVGs back to the repo
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # Pinned to the commit SHA of v0.7.0 (latest release) — a tag can be moved, a SHA cannot.
+      - uses: vn7n24fzkq/github-profile-summary-cards@5055b27ac896c627043ead432f9b2fa973aa2c80 # v0.7.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: ${{ github.repository_owner }}
