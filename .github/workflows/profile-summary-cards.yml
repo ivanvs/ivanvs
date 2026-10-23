@@ -13,8 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      # Pinned to the commit SHA of v0.7.0 (latest release) — a tag can be moved, a SHA cannot.
-      - uses: vn7n24fzkq/github-profile-summary-cards@5055b27ac896c627043ead432f9b2fa973aa2c80 # v0.7.0
+      # Pinned to the commit SHA of v0.12.1 — a tag can be moved, a SHA cannot.
+      # v0.7.0 lost the profile-details and stats cards when GitHub stopped serving
+      # `stargazers` to GITHUB_TOKEN (upstream #311, fixed in #313).
+      - uses: vn7n24fzkq/github-profile-summary-cards@58ec032e39377dd38329bdc1db70074fe74fbb17 # v0.12.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:

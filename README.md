@@ -1,13 +1,13 @@
 # Hi, I'm Ivan 👋
 
-**Senior Software Engineer — High-Load Systems & Event-Driven Architecture**
+**Senior Software Engineer — High-Load Systems & Event-Driven Architecture**<br>
 14 years of experience building scalable back-end systems in **Java/Spring** and **Node.js**.
 
 [![Linkedin Badge](https://img.shields.io/badge/-ivasiljevic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivasiljevic/)](https://www.linkedin.com/in/ivasiljevic/)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/1386584/ivan-vasiljevic)](https://stackoverflow.com/users/1386584/ivan-vasiljevic)
 [![Medium Badge](https://img.shields.io/badge/-@robince885-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@robince885)](https://medium.com/@robince885)
 [![Gmail Badge](https://img.shields.io/badge/-robince885-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:robince885@gmail.com)](mailto:robince885@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@robince885-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/robince885)](https://twitter.com/robince885)
+[![Twitter Badge](https://img.shields.io/badge/-@robince885-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/robince885)](https://twitter.com/robince885)
 [![Instagram Badge](https://img.shields.io/badge/-@crveni_mrav-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/crveni_mrav/)](https://www.instagram.com/crveni_mrav)
 ![Profile View Badge](https://komarev.com/ghpvc/?username=ivanvs)
 
@@ -39,8 +39,8 @@ systems across multiple jurisdictions on a **Kafka + Java/Spring** stack.
   scalable Kafka-based event streaming.
 - **Cloud-native mindset** — AWS Solutions Architect depth; secure, observable, cost-efficient
   applications built with the infrastructure in mind.
-- **Clean code & collaboration** — deep discussions on semantics and shared understanding;
-  code review and mentoring.
+- **Clean code & collaboration** — thorough code reviews, clear technical discussions,
+  and mentoring other engineers.
 
 ## Tech stack
 
